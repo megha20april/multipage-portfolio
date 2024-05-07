@@ -4,12 +4,10 @@
 	display: flex;
 	justify-content: left;
 	align-items: center;
-	padding-top: 130px;
+	padding-top: 90px;
 }
 
-.homepage-container {
-	padding-top: 25px;
-}
+
 
 .homepage-first-area {
 	display: flex;
@@ -38,7 +36,6 @@
 
 .homepage-image-container {
 	width: 370px;
-	height: 370px;
 }
 
 .homepage-image-wrapper {
@@ -55,7 +52,6 @@
 	display: flex;
 	justify-content: left;
 	align-items: center;
-	padding-top: 30px;
 }
 
 .homepage-social-icon {

@@ -1,30 +1,28 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Meg portfolio",
+		name: "Megha Agrawal",
+		email: "meghaagrawal20april@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/megha20april",
+		linkedin: "https://www.linkedin.com/in/megha-agrawal-15b3a1255/",
+		instagram: "https://instagram.com/megha__ag",
+		
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "web developer, a designer, and a Photographer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I'm a web developer who loves clean, simple & unique websites. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I'm Megha Agrawal. I live in India, where I code the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I'm an enthusiast learner who is currently sharpening her skills of development and coding. I'm very much interested in learning the technologies of which I don't have much knowledege about and also the upcoming technologies to keep myself updated. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
 
 	articles: {
@@ -35,48 +33,48 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "ECOM",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Developed a responsive and user-friendly e-commerce website using modern web development technologies, resulting in a significant increase in sales and customer satisfaction",
+			logo: "https://i.graphicmama.com/blog/wp-content/uploads/2021/06/15141019/Free-Eccomerce-Illustrations-Vector-04.png",
+			linkText: "View Project",
+			link: "https://github.com/megha20april/ECOM",
+		},
+
+		{
+			title: "ERC-20 Token",
+			description:
+				"Designed and developed Mizu, a highly functional ERC-20 token with advanced features like transfer, approve, mint, and stake, accompanied by a seamless and intuitive frontend interface, providing a comprehensive and user-friendly experience for token holders.",
+			logo: "https://tradingplatforms.com/wp-content/uploads/2022/01/ETHEREUM-YOUTUBE-PROFILE-PIC-e1641512457452.png",
+			linkText: "View Project",
+			link: "https://github.com/megha20april/Mizu",
+		},
+
+		{
+			title: "Access client camera",
+			description:
+				"it's a small project through which you can access the user's camera.",
+			logo: "https://thumbs.dreamstime.com/b/web-cam-front-view-blue-eye-iris-single-isolated-green-status-light-top-over-white-background-70611184.jpg",
+			linkText: "View Project",
+			link: "https://github.com/megha20april/access-client-camera",
+		},
+
+		{
+			title: "ECC sign verification",
+			description:
+				"Developed a robust and efficient Elliptic Curve Cryptography (ECC) sign verification system using Node.js and its libraries, ensuring the authenticity and integrity of digital signatures and providing a secure and reliable solution for protecting sensitive data",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/megha20april/ECC-sign-verify",
 		},
 
 		{
-			title: "Project 2",
+			title: "RSA sign verification",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Developed a robust and reliable RSA sign verification system using Node.js and its libraries, including crypto, to ensure the authenticity and integrity of digital signatures and provide a secure solution for protecting sensitive data.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/megha20april/RSA-sign-verificaton.git",
 		},
 	],
 };
